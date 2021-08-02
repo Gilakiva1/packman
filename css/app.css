@@ -1,0 +1,40 @@
+body {
+  background-color: black;
+  color:white;
+}
+
+.cell {
+  width: 40px;
+  height: 40px;
+  text-align: center;
+  font-size: 1.5em;
+  
+  
+}
+
+button{
+  display: none;
+}
+.cell1{
+  
+}
+
+/* .formLine {
+  margin:10px;
+  padding:10px;
+  background-color: cornflowerblue;
+} */
+.wall-top{
+  border-top:  4px solid blue;
+}
+.wall-right{
+  border-right: 4px solid blue;
+}
+
+.wall-left{
+  border-left: 4px solid blue;
+}
+
+.wall-bottom{
+  border-bottom: 4px solid blue;
+}
